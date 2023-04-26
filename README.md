@@ -38,8 +38,25 @@ __What are you__ in this life
 [I'm being tagged][I have a NEW HOME]
 
 ## Persons of Interest
+<kbd>
 [Abraham Lincoln][1] <br>
+<img src="img/abe.jpg" height="100px" widht="200px"> <br>
+</kbd>
+<kbd>
 [Elon Musk][2] <br>
+<img src="img/elon.jpg" height="100px" widht="200px"> <br>
+</kbd>
+<kbd>
 [Shohei Ohtani][3] <br>
+<img src="img/shohei.jpg" height="100px" widht="200px"> <br>
+</kbd>
+
+## CS Terms
+| Terms | Definitions | My Meaning
+| :- | :----: | ---:|
+|Abstract| consider theoretically or separately from something else | make something less complex | 
+|Concatenate| to join two or more text strings into one string | join things together|
+|Efficient| working in a well-organized and competent way | lazy |
+|Error| a mistake | wrong |
 
 Markdown Tutorial
